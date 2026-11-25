@@ -76,3 +76,15 @@
     background-color: #FEF9F2;
    
 }
+.dv9{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.dv10{
+    display: flex;
+    align-items: center;
+    max-width: 1220px;
+    margin: auto;
+    justify-content: space-between;
+}
