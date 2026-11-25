@@ -53,3 +53,26 @@
     align-items: center;
     gap:20px;
 }
+.dv6{
+    display: flex;
+    max-width: 1180px;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.img1{
+    width: 600px;
+    
+}
+.dv7{
+    display: flex;
+    max-width: 1220px;
+    margin: auto;
+    gap: 25px;
+    align-items: center;
+}
+.dv8{
+    background-color: #FEF9F2;
+   
+}
