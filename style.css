@@ -23,7 +23,7 @@
     padding: 15px 23px;
     border-radius: 10px;
     font-weight: 800;
-    background-color: #FF9C08;
+    background-color: #ff9c08;
     border: none;
 }
 .btn2{
@@ -109,9 +109,54 @@
 .g{
     max-width: 1220px;
     margin: auto;
+    margin-bottom: 700px;
 }
 
 .rang{
     background-color: #FFD4A4;
     height: 700px;
+}
+.d3{
+    display: flex;
+    max-width: 
+    1220px;
+    margin: auto;
+    align-items: end;
+    justify-content: space-between;
+}
+.d4{
+    border: 2px solid #e6e6e6;
+    width: 380px;
+    text-align: center;
+    padding: 40px 0px;
+    border-radius: 10px;
+    
+}
+.d5{
+    display: flex;
+    align-items: center;
+    max-width: 1220px;
+    margin: auto;
+    justify-content: space-between;
+}
+.d6{
+    display: flex;
+    align-items: center;
+max-width: 1220px;    
+margin: auto;
+gap: 150px;
+}
+.d7{
+    background-color: #FEF9F2;padding: 100px 0px;
+}
+.d8{
+    border: 2px solid rgb(242, 242, 242);
+    padding: 60px 40px;
+    width: fit-content;
+    border-radius: 10px;
+    position: relative;
+    bottom: 380px;
+    left: 450px;
+    background-color: rgba(255, 255, 255, 0.762);
+
 }
