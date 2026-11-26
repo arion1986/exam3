@@ -20,7 +20,7 @@
     gap: 20px;
 }
 .btn{
-    padding: 15px 23px;
+    padding: 20px 33px;
     border-radius: 10px;
     font-weight: 800;
     background-color: #ff9c08;
@@ -218,6 +218,37 @@ justify-content: space-between;
     font-weight: 600;
 }
 .dd6{
+    max-width: 1220px;
+    margin: auto;
+}
+.last{
+    width: 35px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: black;
+}
+.last2{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.fot{
+    display: flex;
+    align-items: center;
+    max-width: 1220px;
+    margin: auto;
+    justify-content: space-between;
+}
+.fot2{
+    background-color: #FEF9F2;
+    padding: 100px 0px 50px 0px;
+    margin-top: 100px;
+}
+.dd7{
+    position: relative;
+    bottom: 610px;
+    left: 890px;
+    
     max-width: 1220px;
     margin: auto;
 }
