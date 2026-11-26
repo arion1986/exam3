@@ -128,7 +128,7 @@
     border: 2px solid #e6e6e6;
     width: 380px;
     text-align: center;
-    padding: 40px 0px;
+    padding: 65px 0px;
     border-radius: 10px;
     
 }
@@ -247,8 +247,9 @@ justify-content: space-between;
 .dd7{
     position: relative;
     bottom: 610px;
-    left: 890px;
+    left: 450px;
     
-    max-width: 1220px;
+    width: 330px;
+
     margin: auto;
 }
