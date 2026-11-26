@@ -156,7 +156,7 @@ gap: 150px;
     border-radius: 10px;
     position: relative;
     bottom: 380px;
-    left: 450px;
+    left: 300px;
     background-color: rgba(255, 255, 255, 0.762);
 
 }
@@ -194,4 +194,30 @@ justify-content: space-between;
 .dd3{
     position: relative;
     bottom: 100px;
+}
+.dd4{
+    display: flex;
+    align-items: start;
+    max-width: 1220px;
+    margin: auto;
+    justify-content: space-between;
+}
+.dd5{
+    width: 250px;
+    height: 250px;
+    background-color: #ff9c08;
+    padding: 60px 40px 0px 40px;
+    border-radius: 15px;
+}
+.btn4{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 25px 87px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.dd6{
+    max-width: 1220px;
+    margin: auto;
 }
